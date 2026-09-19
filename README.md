@@ -1,16 +1,29 @@
-## Hi there 👋
+# Kauã Alfa
 
-<!--
-**KauaRDESIGN/KauaRDESIGN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Designer & Front-end Developer**
 
-Here are some ideas to get you started:
+Interfaces com direção de arte, movimento e atenção aos detalhes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos selecionados
+
+### ✳︎ [Mainframe](https://github.com/KauaRDESIGN/mainframe)
+Landing page imersiva para uma agência criativa. O vídeo responde ao movimento horizontal do cursor e a interface conduz o visitante com microinterações.
+
+**React · TypeScript · Vite · Interaction Design**
+
+### ◌ [Aether](https://github.com/KauaRDESIGN/aether)
+Landing page editorial inspirada em viagens e paisagens remotas, com vídeo HLS em tela cheia e navegação glassmorphism.
+
+**React · HLS.js · Vite · Responsive UI**
+
+## Ferramentas
+
+React · TypeScript · JavaScript · Vite · HTML · CSS · UI Design
+
+## Vamos construir algo?
+
+Estou aberto a projetos em que produto, visual e interação precisam caminhar juntos. Entre em contato pelo GitHub.
+
+---
+
+Feito por Kauã Alfa · São Paulo, BR
