@@ -1,4 +1,4 @@
-# Kauã Alfa
+# Kauã Vitor Carvalho de Abreu
 
 **Designer & Front-end Developer**
 
